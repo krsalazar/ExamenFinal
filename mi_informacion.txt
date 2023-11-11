@@ -1,1 +1,3 @@
 Archivo con informacion para el examen.
+
+Se realizan cambios al archivo de informacion.
